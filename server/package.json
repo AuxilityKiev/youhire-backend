@@ -62,7 +62,7 @@
         "app-root-path": "^2.1.0",
         "class-validator": "^0.8.5",
         "cors": "^2.8.4",
-        "jsonwebtoken": "^8.3.0",
+        "jsonwebtoken": "^9.0.0",
         "kcors": "^2.2.2",
         "koa": "^2.5.2",
         "koa-bodyparser": "^4.2.1",
