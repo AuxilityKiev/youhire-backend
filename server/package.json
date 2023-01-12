@@ -60,7 +60,7 @@
     "dependencies": {
         "@google/maps": "^0.5.5",
         "app-root-path": "^2.1.0",
-        "class-validator": "^0.8.5",
+        "class-validator": "^0.14.0",
         "cors": "^2.8.4",
         "jsonwebtoken": "^8.3.0",
         "kcors": "^2.2.2",
